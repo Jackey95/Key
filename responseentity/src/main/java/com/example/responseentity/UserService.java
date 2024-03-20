@@ -1,5 +1,6 @@
 package com.example.responseentity;
 
+import com.example.swagger.SwaggerUser;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;

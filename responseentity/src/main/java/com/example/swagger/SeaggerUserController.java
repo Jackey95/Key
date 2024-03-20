@@ -1,6 +1,8 @@
-package com.example.responseentity;
+package com.example.swagger;
 
 
+import com.example.responseentity.UserService;
+import com.example.swagger.SwaggerUser;
 import io.swagger.annotations.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

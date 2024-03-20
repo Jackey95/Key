@@ -1,4 +1,4 @@
-package com.example.responseentity;
+package com.example.swagger;
 
 import org.springframework.context.annotation.Bean;
 import springfox.documentation.builders.ApiInfoBuilder;

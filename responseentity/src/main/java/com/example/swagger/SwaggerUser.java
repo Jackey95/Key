@@ -1,4 +1,4 @@
-package com.example.responseentity;
+package com.example.swagger;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

@@ -1,4 +1,4 @@
-package com.example.responseentity;
+package com.example.swagger;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.PostMapping;
